@@ -1,2 +1,3 @@
 # miniguia-estudos-notebooklm
-Teste de uso do notebooklm para estudos de Data Engineering
+
+Repositório criado com a finalidade de testar funcionalidades do notebooklm PRO com materiais de estudo de Data Engineering (DE). Os conteúdos envolvem fundamentos da área.
